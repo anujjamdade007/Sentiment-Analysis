@@ -1,7 +1,7 @@
 # Sentiment Analysis
 
 
-[![N|Solid](https://www.kdnuggets.com/wp-content/uploads/mayo_sent_analysis_fastapi_transformers-0.jpg)]
+![N|Solid](https://www.kdnuggets.com/wp-content/uploads/mayo_sent_analysis_fastapi_transformers-0.jpg)
 
 ## Problem Statement
 
